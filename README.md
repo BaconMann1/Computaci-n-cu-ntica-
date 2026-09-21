@@ -15,32 +15,11 @@ Tema general: Computación cuántica.
 2. Avances recientes (`tema2.html`)
 3. Aplicaciones potenciales (`tema3.html`)
 
-## Estructura del proyecto
-
-```
-fundamentos-web-equipo-03/
-|-- index.html
-|-- tema2.html
-|-- tema3.html
-|-- README.md
-`-- img/
-    |-- tema1.jpg
-    |-- tema2.jpg
-    `-- tema3.jpg
-```
 
 ## Distribución del trabajo
 
-| Integrante | Responsabilidad |
-|---|---|
-| Estudiante 1 | Principios generales (`index.html`) y primera parte de Aplicaciones potenciales |
-| Estudiante 2 | Avances recientes (`tema2.html`) y segunda parte de Aplicaciones potenciales |
-
-## Flujo de ramas
-
-- `main`: versión final aprobada.
-- `develop`: integración del trabajo del equipo.
-- `usuario1` y `usuario2`: ramas individuales; los cambios llegan a `develop` mediante Pull Request.
+Cristian: Principios generales (`index.html`) y primera parte de Aplicaciones potenciales
+Beken: Avances recientes (`tema2.html`) y segunda parte de Aplicaciones potenciales
 
 ## Revisión cruzada
 
@@ -49,27 +28,22 @@ fundamentos-web-equipo-03/
 
 ## Validación HTML
 
-Validador utilizado: https://validator.w3.org/ (opción "Validate by File Upload").
-
-> Completar con el resultado real que muestre el validador en cada página.
+Validador utilizado: https://validator.w3.org/
 
 ### Página 1 (`index.html`)
 Errores encontrados:
-- ...
+-Ninguno
 
 Correcciones realizadas:
-- ...
+-Ninguno
 
 ### Página 2 (`tema2.html`)
 Errores encontrados:
-- ...
+-Ninhuno
 
 Correcciones realizadas:
 - ...
 
 ### Página 3 (`tema3.html`)
 Errores encontrados:
-- ...
-
-Correcciones realizadas:
 - ...
