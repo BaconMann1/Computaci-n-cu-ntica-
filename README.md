@@ -34,16 +34,10 @@ Validador utilizado: https://validator.w3.org/
 Errores encontrados:
 -Ninguno
 
-Correcciones realizadas:
--Ninguno
-
 ### Página 2 (`tema2.html`)
 Errores encontrados:
 -Ninhuno
 
-Correcciones realizadas:
-- ...
-
 ### Página 3 (`tema3.html`)
 Errores encontrados:
-- ...
+-Ninguno
