@@ -4,8 +4,8 @@ Mini sitio web de tres páginas HTML5 sobre **Computación cuántica**, desarrol
 
 ## Integrantes
 
-- Estudiante 1: Nombre Apellido (rama `usuario1`)
-- Estudiante 2: Nombre Apellido (rama `usuario2`)
+- Cristian Andrés Revelo
+- Beken Carabali Palacios
 
 ## Tema y subtemas
 
